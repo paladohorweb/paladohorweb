@@ -17,7 +17,7 @@
 
 💻 unos cuántos años de experiencia en el proceso de desarrollo de software (emprendedor independiente en la solucion de problemas  🙈)
 
-📝 roles en el ámbito: desarrollador... líder... arquitecto... cofundador... emprendedor... programador freelance... y en un futuro quién sabe ☺️
+📝 roles en el ámbito: desarrollador... líder... arquitecto.... emprendedor... programador freelance... y en un futuro quién sabe ☺️
 
 📫 Contacto: **paladohor@gmail.com**
 <!--Intro end-->
