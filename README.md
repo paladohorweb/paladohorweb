@@ -13,12 +13,6 @@
 <p align="left">
 🎓 Tecnologo en Analisis y Desarrollo de Sistemas de Informacion, Estudiante Autonomo, programador Full Stack
 
-🎥 PEQUEÑO CREADOR DE CONTENIDO que transmite sus conocimientos 📚 a través de las redes en base a mucho estudio 😵 buscando experiencia
-
-💻 unos cuántos años de experiencia en el proceso de desarrollo de software (emprendedor independiente en la solucion de problemas  🙈)
-
-📝 roles en el ámbito: desarrollador... líder... arquitecto.... emprendedor... programador freelance... y en un futuro quién sabe ☺️
-
 📫 Contacto: **paladohor@gmail.com**
 <!--Intro end-->
   </p>
