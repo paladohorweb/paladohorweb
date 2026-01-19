@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋  soy Jorge Palacio / unsimpleAprendizDev ✨ </h1> 
+<h1 align="center">Hola 👋  soy Jorge Palacio / unAprendizDev ✨ </h1> 
 
 <p align="left">
 <a href="https://www.youtube.com/@jorgepalacio2702" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@Jorgepalacio"  /></a>
@@ -56,14 +56,22 @@
 </table>
 <!--- stats (end) -->
 
+
+<p align="center">
+    <a href="https://github.com/hungpham3112">
+        <img height="180em" src="https://streak-stats.demolab.com?user=paladohorweb&theme=tokyonight&hide_border=true&border_radius="/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paladohorweb&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paladohorweb&hide_border=true&layout=compact&theme=tokyonight&hide=jupyter%20notebook"/>
+    </a>
+</p>
+
 <!--- trophy (start) -->
-<div align=left>
+<!--<div align=left>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
       <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=paladohorweb&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
     </a>
 </div>
 <!--- trophy (start) -->
-
 
 </p>        
 <!--- stats (end) -->
