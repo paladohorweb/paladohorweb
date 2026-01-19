@@ -1,3 +1,31 @@
+
+<div align=center>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=5000&pause=500&color=52F7EF&center=true&vCenter=true&width=500&lines=Hi!+I'm+Jorge+Palacio;Open-source+enthusiast;Artificial+Intelligence+Student;I+use+Java" alt="Typing SVG" /></a>
+</div>
+
+<p align="center">
+	<a href="https://github.com/paladohorweb">
+		<img src="https://komarev.com/ghpvc/?username=paladohorweb&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+	</a>
+	<a href="https://github.com/paladohorweb">
+		<img src="https://img.shields.io/github/followers/paladohorweb?label=Followers" alt="followers"/>
+	</a>
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <h1 align="center">Hola 👋  soy Jorge Palacio / unAprendizDev ✨ </h1> 
 
 <p align="left">
