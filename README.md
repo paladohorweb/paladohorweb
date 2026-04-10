@@ -26,7 +26,7 @@
 
 
 
-<h1 align="center">Hola 👋  soy Jorge Palacio / unAprendizDev ✨ </h1> 
+<h1 align="center">Hola 👋  soy Jorge Palacio / unDev ✨ </h1> 
 
 <p align="left">
 <a href="https://www.youtube.com/@jorgepalacio2702" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@Jorgepalacio"  /></a>
