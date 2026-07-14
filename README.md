@@ -40,14 +40,10 @@
 
 <p align="left">
 🎓 Tecnologo en Analisis y Desarrollo de Sistemas de Informacion, Estudiante Autonomo, programador Full Stack.
-Desde el backend robusto con Java Spring Boot hasta el frontend brillante con Angular Standalone, Jorge es un desarrollador con visión clara y pulso firme. Su tienda virtual no es solo una tienda: es un ecosistema donde el diseño responsivo, la seguridad con JWT, la experiencia de usuario fluida y el checkout a prueba de fallos conviven en armonía.
-Siempre buscando el detalle perfecto, Jorge no deja ni un botón sin funcionalidad, ni una ruta sin probar.
-
-¿Y su portafolio? No es solo una web, es una carta de presentación tecnológica futurista, con modo oscuro, efectos sutiles y secciones tan bien organizadas como su código.
-
-🔧 Constante en pruebas, exigente con la calidad y obsesionado con la mejora continua.
+Desde el backend robusto con Java Spring Boot hasta el frontend brillante con Angular , Jorge es un desarrollador con visión clara y pulso firme.
 
 📫 Contacto: **paladohor@gmail.com**
+              https://dcnjeyxtzg92r.cloudfront.net/
 <!--Intro end-->
   </p>
 <br>
