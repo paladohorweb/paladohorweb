@@ -43,7 +43,7 @@
 Desde el backend robusto con Java Spring Boot hasta el frontend brillante con Angular , Jorge es un desarrollador con visión clara y pulso firme.
 
 📫 Contacto: **paladohor@gmail.com**
-              https://dcnjeyxtzg92r.cloudfront.net/
+     Devportafolio       <br>  https://dcnjeyxtzg92r.cloudfront.net/<br/>
 <!--Intro end-->
   </p>
 <br>
