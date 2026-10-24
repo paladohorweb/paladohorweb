@@ -26,7 +26,7 @@
 
 
 
-<h1 align="center">Hola 👋  soy Jorge Palacio / unDev ✨ </h1> 
+<h1 align="center">Hola  soy Jorge Palacio  </h1> 
 
 <p align="left">
 <a href="https://www.youtube.com/@jorgepalacio2702" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@Jorgepalacio"  /></a>
@@ -35,14 +35,14 @@
 <a href = "paladohor@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@@Jorgepalacio"  /></a>
   </p>
 <br>
-<h2>Sobre mi 😃</h2>
+<h2>Sobre mi </h2>
 <!--Intro start-->
 
 <p align="left">
-🎓 Tecnologo en Analisis y Desarrollo de Sistemas de Informacion, Estudiante Autonomo, programador Full Stack.
+ Tecnologo en Analisis y Desarrollo de Sistemas de Informacion, Estudiante Autonomo, programador Full Stack.
 Desde el backend robusto con Java Spring Boot hasta el frontend brillante con Angular , Jorge es un desarrollador con visión clara y pulso firme.
 
-📫 Contacto: **paladohor@gmail.com**
+ Contacto: **paladohor@gmail.com**
          <!-- <br> Devportafolio :
 	 <br/>-->
 <!--Intro end-->
@@ -75,7 +75,7 @@ Desde el backend robusto con Java Spring Boot hasta el frontend brillante con An
 
 <!--  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=unsimpledev&theme=dark&show_icons=true&count_private=true" />
   <br></br> -->
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=paladohorweb&theme=dark&hide_border=false" /> 
+  <img  title=" Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=paladohorweb&theme=dark&hide_border=false" /> 
 </td>
 
 <td width="40%" align="center">
